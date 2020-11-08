@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 <<<<<<< HEAD
-theme: slate
+#theme: slate
 =======
 theme: jekyll-theme-slate
 >>>>>>> 8f0b8d0a7c83408318e4bd2b625d536dbe81a723
